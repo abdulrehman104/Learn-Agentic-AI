@@ -1,4 +1,6 @@
-- https://github.com/panaversity/learn-agentic-ai/blob/main/certification.md
+# **Introduction TO Agentic AI**
+
+<!-- - https://github.com/panaversity/learn-agentic-ai/blob/main/certification.md
 - https://openai.github.io/openai-agents-python/
 - https://cookbook.openai.com/examples/agents_sdk/multi-agent-portfolio-collaboration/multi_agent_portfolio_collaboration
 - https://cookbook.openai.com/examples/gpt4-1_prompting_guide
@@ -14,4 +16,4 @@
 - https://cookbook.openai.com/examples/gpt4-1_prompting_guide
 - https://www.markdownguide.org/basic-syntax/
 - https://www.markdownguide.org/cheat-sheet/
-\
+\ -->
